@@ -1,0 +1,6 @@
+My name is Scott Millar. I am a computer science student studying at Lincoln University and I am in my first year.
+
+I am currently working through the problems on ProjectEuler.net to improve my programming skills, I originally started with 
+Java however I have been taught C# at my university so have opted to carry on with that as I better with it. Project Euler
+is a website which has many problems to be solved via programming. What I have done so far is in my Project
+Euler Folder.
